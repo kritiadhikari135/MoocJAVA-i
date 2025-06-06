@@ -7,5 +7,8 @@ public class DivisibleByThree {
         Scanner scanner = new Scanner(System.in);
 
     }
+    public static void divisiblebyThreeInRange(int beginning, int end){
+        
+    }
 
 }
